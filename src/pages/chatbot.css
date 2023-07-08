@@ -1,0 +1,125 @@
+.container2 {
+  width: 40%;
+  margin: auto;
+  padding: 30px;
+  background-color: rgba(255, 255, 255, 0.15);
+  border-radius: 15px;
+  box-shadow: 0 0 20px rgba(8, 7, 16, 0.6);
+  backdrop-filter: blur(10px);
+  border: 2px solid rgba(255, 255, 255, 0.1);
+  color:white;
+}
+
+.alert2 {
+  margin-bottom: 2rem;
+}
+
+.error-message2 {
+  color: red;
+}
+
+.title2 {
+  text-align: center;
+  font-size: 32px;
+  font-weight: 500;
+  line-height: 42px;
+  margin-bottom: 20px;
+}
+
+.text-input2 {
+  width: 100% !important;
+  margin-top: 10px;
+  resize: none;
+  padding-left: 10px;
+  padding-top: 15px;
+  font-size: 16px;
+  color: #fff;
+  letter-spacing: 1px;
+  margin-bottom: 18px;
+  border: 0.5px solid #ffffff59;
+  border-radius: 7px;
+  background: transparent;
+}
+
+.chat-button2 {
+  /* width: 100%;
+  margin-top: 10px;
+  color: white;
+  background-color: #2196f3;
+  border: none;
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 5px; */
+  position: relative;
+  width: 100%;
+  border: none;
+  outline: none;
+  padding: 12px 0;
+  color: #12162dda;
+  background: linear-gradient(to right, #f2709c, #ff9472);
+  font-size: 17px;
+  font-weight: 400;
+  border-radius: 7px;
+  cursor: pointer;
+  z-index: 4;
+  bottom: 0;
+  margin-bottom: 20px;
+}
+.chat-button2:hover {
+    background: #ffffff;
+}
+  
+
+.go-back2 {
+  margin-top: 10px;
+}
+
+.card2 {
+  margin-top: 10px;
+  box-shadow: none;
+  height: 400px;
+  padding-left: 10px;
+  padding-top: 15px;
+  font-size: 16px;
+  color: #fff;
+  letter-spacing: 1px;
+  margin-bottom: 18px;
+  border: 0.5px solid #ffffff59;
+  border-radius: 7px;
+  background: transparent;
+}
+
+.card2-image {
+  margin-top: 10px;
+  box-shadow: none;
+  height: 400px;
+  padding-left: 10px;
+  padding-top: 15px;
+  font-size: 16px;
+  color: #fff;
+  letter-spacing: 1px;
+  margin-bottom: 18px;
+  border: 0.5px solid #ffffff59;
+  border-radius: 7px;
+  background: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.response-text2 {
+  padding: 1rem;
+  overflow:auto;
+}
+
+.text-center2 {
+  text-align: center;
+  vertical-align: middle;
+  line-height: 450px;
+}
+
+
+.card2-image img{
+  height: 100%;
+  width: auto;
+  padding: auto;
+}
